@@ -1,7 +1,3 @@
-# svg-to-ico
-
-Simple NPM package written in Typescript that takes in a SVG file and converts it into a ICO file with all the possible image dimensions.
-
 ## Usage
 
 ```typescript
